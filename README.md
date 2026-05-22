@@ -29,11 +29,11 @@ Streamlit LINK: https://lungcancerdetection-usingmachinelearning.streamlit.app/
 ---
 
 🛠️ Tech Stack
-Programming Language: Python
-Framework: Streamlit
-Machine Learning: Scikit-learn
-Libraries: NumPy, Joblib, Pandas
-Deployment: Streamlit Cloud / Localhost
+* **Programming Language: Python**
+* **Framework: Streamlit**
+* **Machine Learning: Scikit-learn**
+* **Libraries: NumPy, Joblib, Pandas**
+* **Deployment: Streamlit Cloud / Localhost**
 
 ---
 
