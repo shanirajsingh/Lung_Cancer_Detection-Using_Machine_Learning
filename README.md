@@ -19,11 +19,16 @@ Streamlit LINK: https://lungcancerdetection-usingmachinelearning.streamlit.app/
 ---
 
 🚀 Features
-✅ User-friendly Streamlit interface**
-✅ Real-time lung cancer risk prediction**
-✅ Machine Learning-based prediction system**
-✅ Displays prediction probability**
-✅ Interactive health input form**
+✅ User-friendly Streamlit interface  
+
+✅ Real-time lung cancer risk prediction  
+
+✅ Machine Learning-based prediction system  
+
+✅ Displays prediction probability  
+
+✅ Interactive health input form  
+
 ✅ Fast and lightweight application
 
 ---
