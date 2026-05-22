@@ -1,4 +1,4 @@
-Lung Cancer Risk Prediction System 🚑🫁
+Lung Cancer Risk Prediction System 🚑?
 
 A Machine Learning-powered web application that predicts the risk of lung cancer based on user health and lifestyle inputs.
 Built using Python, Streamlit, Scikit-learn, NumPy, and Joblib.
