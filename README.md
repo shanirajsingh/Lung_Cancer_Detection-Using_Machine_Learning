@@ -18,7 +18,8 @@ Streamlit LINK: https://lungcancerdetection-usingmachinelearning.streamlit.app/
 
 ---
 
-🚀 Features
+🚀 Features  
+
 ✅ User-friendly Streamlit interface  
 
 ✅ Real-time lung cancer risk prediction  
@@ -42,13 +43,20 @@ Streamlit LINK: https://lungcancerdetection-usingmachinelearning.streamlit.app/
 
 ---
 
-📂 Project Structure
-lung-cancer-prediction/
-│
+📂 Project Structure  
+
+lung-cancer-prediction/  
+
+│  
+
 ├── app.py                  # Streamlit application
-├── final_model.pkl         # Trained ML model
-├── lung.png                # Sidebar image/logo
-├── requirements.txt        # Required dependencies
+ 
+├── final_model.pkl         # Trained ML model  
+
+├── lung.png                # Sidebar image/logo  
+
+├── requirements.txt        # Required dependencies  
+
 └── README.md               # Project documentation
 
 ---
