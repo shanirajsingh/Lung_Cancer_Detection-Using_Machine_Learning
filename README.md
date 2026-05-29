@@ -81,3 +81,5 @@ Difficulty Swallowing
 Chest Pain
 
 ---
+![Project Screenshot](https://github.com/shanirajsingh/Lung_Cancer_Detection-Using_Machine_Learning/blob/main/lung_cancer_pred.png?raw=true)
+---
